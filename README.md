@@ -3,7 +3,7 @@ Pelaporan Sampah adalah aplikasi berbasis website yang bertujuan untuk melaporka
 
 Link Frontend : [https://lampah.vercel.app](https://lampah.vercel.app)
 
-Link Backend : [https://lampah-server.vercel.app/](https://lampah-server.vercel.app/)
+Link Backend : [https://lampah-server.vercel.app](https://lampah-server.vercel.app)
 
 ## Tech Stack
 1. Frontend : [Nuxt.js 2](https://v2.nuxt.com), [Bootstrap 4.6.2](https://getbootstrap.com/docs/4.6/getting-started/introduction)
